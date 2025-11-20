@@ -1,0 +1,32 @@
+.date-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+  gap: 10px;
+}
+
+#datetime-picker {
+  font-size: 40px;
+  width: 350px;
+  text-align: center;
+  border-radius: 4px;
+  border: 2px solid rgb(181, 181, 228)
+}
+
+.btn-start {
+  height: 45px;
+  font-size: 30px;
+
+}
+
+.timer {
+display: flex;
+gap: 60px;
+margin: 50px auto;
+font-size: 50px;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+}

@@ -12,7 +12,12 @@
 
 /* Sections style */
 @import url('./header.css');
-@import url('./vite-promo.css');
-@import url('./badges.css');
 @import url('./back-link.css');
-@import url('./footer.css');
+@import url('./1-timer.css');
+@import url('./2-snackbar.css');
+
+/* Flatpickr styles */
+@import "flatpickr/dist/flatpickr.min.css";
+
+/* Izitoast styles */
+@import "izitoast/dist/css/iziToast.min.css";
